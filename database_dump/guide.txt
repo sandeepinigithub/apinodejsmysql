@@ -1,0 +1,12 @@
+1. First create a new user account in xampp server
+2. user - sandeep , and password - sandeep@123
+3. After this create a DB name - apinodejsmysql 
+4. After this create a user table with following schema 
+
+id : bigint
+name : varchar(60)
+email : varchar(60)
+username : varchar(60)
+password : varchar(60) 
+
+5. Enjoy 👍
